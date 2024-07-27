@@ -1,3 +1,16 @@
+What to Expect:  
+
+The script will start capturing video from your webcam.
+If hand landmarks are detected, they will be displayed on the video feed.
+The video feed will be shown in a window titled 'Hand Gesture Recognition'.  
+To exit the video feed, press the 'q' key on your keyboard.  
+Troubleshooting:   
+If you encounter errors, check the following:  
+Ensure your virtual environment is activated.
+Ensure all required packages ( opencv-python ,  mediapipe ,  tensorflow ,  numpy )
+are installed.  
+Ensure your webcam is properly connected and accessible.
+
 What to Expect:
 When you run the  gestures.py  script:
 1. Video Feed with Hand Detection:
